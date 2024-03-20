@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  background-image: linear-gradient(to top, #b5b9ff, #303150);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ffffff;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  width: 400px;
+  border-radius: 12px;
+}
